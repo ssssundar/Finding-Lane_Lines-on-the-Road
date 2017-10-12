@@ -1,8 +1,9 @@
 # Finding-Lane_Lines-on-the-Road 
 Udacity Self Driving Car Engineer Nano Degree - Term 1 project.
-My project repository consists of muliple filed.
-I have categorized them as follows.
 
+My project repository consists of muliple files.
+
+I have categorized them as follows:
 
 I. Project Submissions
 1) P1.ipynb
